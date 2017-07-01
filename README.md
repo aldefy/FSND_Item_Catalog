@@ -7,7 +7,7 @@ Clone this repository by typing `git clone https://github.com/aldefy/FSND_Item_C
 
 ## Launching Vagrant
 
-Once you have installed [Vagrant](vagrantup.com), clone the Full Stack Nanodegree files from [here](https://github.com/udacity/fullstack-nanodegree-vm). Once done, navigate to the folder, then type `vagrant up`. Once ready, type `vagrant ssh` which will connect you to the VM.
+Once you have installed [Vagrant](http://vagrantup.com), clone the Full Stack Nanodegree files from [here](https://github.com/udacity/fullstack-nanodegree-vm). Once done, navigate to the folder, then type `vagrant up`. Once ready, type `vagrant ssh` which will connect you to the VM.
 
 ## Setting up the database
 
