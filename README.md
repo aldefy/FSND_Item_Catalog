@@ -11,7 +11,7 @@ Once you have installed [Vagrant](http://vagrantup.com), clone the Full Stack Na
 
 ## Setting up the database
 
-Once you are connected in the VM, type `cd /vagrant` to change to the current directory. Navigate to `/catalog`. You should see `vagrant@vagrant-ubuntu-trusty-32:/vagrant/catalog$`. This will be where you enter your commands. To set up the database, first type `python database_setup.py`. This is to create the schema. You should see a `itemCatalog.db` file after you type that command. Next, type `python testData.py`. This is to populate the database with some sample data.
+Once you are connected in the VM, type `cd /vagrant` to change to the current directory. Navigate to `/catalog`. You should see `vagrant@vagrant:/vagrant/catalog$`. This will be where you enter your commands. To set up the database, first type `python database_setup.py`. This is to create the schema. You should see a `itemCatalog.db` file after you type that command. Next, type `python testData.py`. This is to populate the database with some sample data.
 
 ## Testing
 
